@@ -24,7 +24,7 @@ var (
 	// These variables should be set by the linker when compiling
 
 	// Version is the version number or commit hash
-	Version = "0.0.0-unknown"
+	Version = "2.0.9-dev52"
 	// Semantic version
 	SemVersion semver.Version
 	// CommitHash is the commit this version was built on
